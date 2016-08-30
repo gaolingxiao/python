@@ -31,9 +31,9 @@ if __name__ == '__main__':
         txt += '\n'
     print(txt)
     if output:
-        with open(output, 'W') as f:
+        with open(output, 'w') as f:
             f.write(txt)
     else:
-        with open("output.txt", 'W') as f:
+        with open("output.txt", 'w') as f:
             f.write(txt)
 
