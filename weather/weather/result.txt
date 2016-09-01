@@ -1,0 +1,22 @@
+city:北京
+
+date:09-01		day:阴(27°C )		night:阴( 19°C)
+
+date:09-02		day:多云(28°C )		night:阴( 20°C)
+
+date:09-03		day:阴(29°C )		night:多云( 20°C)
+
+date:09-04		day:多云(29°C )		night:阵雨( 19°C)
+
+date:09-05		day:多云(30°C )		night:阴( 21°C)
+
+date:09-06		day:阴(30°C )		night:多云( 20°C)
+
+date:09-07		day:多云(29°C )		night:多云( 20°C)
+
+date:09-08		day:晴(32°C )		night:晴( 19°C)
+
+date:09-09		day:少云(31°C )		night:少云( 18°C)
+
+date:09-10		day:少云(30°C )		night:少云( 18°C)
+
